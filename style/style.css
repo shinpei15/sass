@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+body .test {
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body .test h1 {
+  background-color: yellow;
+  font-size: 25px;
+  margin: 20px;
+  color: black;
+}
+
+body .test-link ol {
+  width: 150px;
+  margin: 0 auto;
+}
+
+body h2 {
+  margin: 20px;
+}
+
+body h2 span {
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
